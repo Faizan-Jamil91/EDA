@@ -3,7 +3,6 @@ ai-data-science-team
 streamlit
 sqlalchemy
 pandas
-asyncio
 langchain
 langchain-openai
 langgraph
@@ -13,6 +12,5 @@ sweetviz
 pytimetk
 google.generativeai
 langchain_google_genai
-html==1.16
 ipython
 sweetviz
