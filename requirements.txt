@@ -13,6 +13,6 @@ sweetviz
 pytimetk
 google.generativeai
 langchain_google_genai
-html
+html==1.16
 ipython
 sweetviz
